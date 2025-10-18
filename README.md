@@ -1,5 +1,7 @@
 # Análise de Desempenho - Alura Store
 
+> Análise de dados de vendas de quatro lojas da rede Alura Store para identificar a unidade com menor eficiência e fornecer uma recomendação estratégica de venda.
+
 ## 1. Descrição do Projeto
 Este projeto foi desenvolvido como parte de um desafio de ciência de dados, com o objetivo de auxiliar o "Senhor João", proprietário da rede fictícia Alura Store, a tomar uma decisão de negócios. A análise consiste em avaliar dados de vendas, desempenho e avaliações das quatro lojas para identificar qual delas apresenta a menor performance. A recomendação final é baseada em uma análise quantitativa e visual dos dados, visando a venda da unidade menos eficiente para viabilizar novos investimentos.
 
