@@ -1,5 +1,7 @@
 # Análise de Desempenho - Alura Store
 
+![Capa do Projeto](https://github.com/daniela02s/alura-store/blob/main/capa.jpg)
+
 > Análise de dados de vendas de quatro lojas da rede Alura Store para identificar a unidade com menor eficiência e fornecer uma recomendação estratégica de venda.
 
 ## 1. Descrição do Projeto
